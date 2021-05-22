@@ -1,3 +1,5 @@
 /Chat.iml
 /target/
 /.idea/
+/application.yml
+/application.yml.dist
